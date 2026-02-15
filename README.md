@@ -440,7 +440,7 @@ The ROC curve demonstrates excellent discriminatory power:
 **Analysis:** Model correctly identifies natural facial features and authentic image characteristics
 
 #### Fake Image Detection
-![Fake Image Example](result/prediction_fake.png)
+![Fake Image Example](result/prediction_fake)
 
 **Prediction:** FAKE (0.79)  
 **Confidence:** 79%  
