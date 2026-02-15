@@ -27,7 +27,8 @@ Deepfake detection using CNN (TensorFlow &amp; OpenCV) achieving 89% accuracy wi
 - [Author](#-author)
 - [Key Features](#-key-features)
 - [Problem Statement](#-problem-statement)
-- [Technology Stack](#-technology-stack)
+- [Technology Stack](#-technology-stack)<img width="1085" height="260" alt="image" src="https://github.com/user-attachments/assets/490b2e47-b934-4c4b-813f-09aa68090683" />
+
 - [Dataset](#-dataset)
 - [Model Architecture](#-model-architecture)
 - [Methodology](#-proposed-methodology)
@@ -439,7 +440,7 @@ The ROC curve demonstrates excellent discriminatory power:
 **Analysis:** Model correctly identifies natural facial features and authentic image characteristics
 
 #### Fake Image Detection
-![Fake Image Example](result/prediction_fake)
+![Fake Image Example](result/prediction_fake.png)
 
 **Prediction:** FAKE (0.79)  
 **Confidence:** 79%  
