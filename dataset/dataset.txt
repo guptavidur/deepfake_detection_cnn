@@ -1,0 +1,5 @@
+Dataset: 140K Real and Fake Faces Dataset
+Source: Kaggle
+https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
+
+Dataset not uploaded due to size and license restrictions.
