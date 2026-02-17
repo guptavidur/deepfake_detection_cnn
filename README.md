@@ -785,4 +785,4 @@ If you find this project helpful, please consider:
 *Combating misinformation through AI-powered deepfake detection*
 
 </div>
- f2e1701 (Update README.md)
+
