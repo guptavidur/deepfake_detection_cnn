@@ -432,7 +432,7 @@ The ROC curve demonstrates excellent discriminatory power:
 ### Sample Predictions
 
 #### Real Image Detection
-![Real Image Example](result/prediction_example1.png)
+![Real Image Example](result/prediction_real.png)
 
 **Prediction:** REAL (0.17)  
 **Confidence:** 83%  
@@ -496,7 +496,7 @@ deepfake_detection_cnn/
 ├── 📂 result/                       # Model outputs and performance metrics
 │   ├── confusion_matrix.png        # Confusion matrix visualization
 │   ├── roc_curve.png              # ROC curve and AUC score
-│   ├── prediction_example1.png     # Sample real image prediction
+│   ├── prediction_real.png     # Sample real image prediction
 │   └── prediction_example2.png     # Sample fake image prediction
 │
 ├── 📄 deepfake_detection.ipynb      # Main Jupyter notebook
