@@ -241,7 +241,7 @@ GPU support (optional, for training)
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/notvidur/deepfake_detection_cnn.git
+git clone https://github.com/guptavidur/deepfake_detection_cnn.git
 cd deepfake_detection_cnn
 ```
 
@@ -750,18 +750,18 @@ copies or substantial portions of the Software.
 B.Tech Computer Science Engineering  
 Manipal University Jaipur
 
-- **GitHub:** [@notvidur](https://github.com/notvidur)
-- **Project Link:** [https://github.com/notvidur/deepfake_detection_cnn](https://github.com/notvidur/deepfake_detection_cnn)
+- **GitHub:** [@guptavidur](https://github.com/guptavidur)
+- **Project Link:** [https://github.com/guptavidur/deepfake_detection_cnn](https://github.com/guptavidur/deepfake_detection_cnn)
 - **Email:** Contact via GitHub
 
 ---
 
 ## 📊 Project Statistics
 
-![GitHub Stars](https://img.shields.io/github/stars/notvidur/deepfake_detection_cnn?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/notvidur/deepfake_detection_cnn?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/notvidur/deepfake_detection_cnn)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/notvidur/deepfake_detection_cnn)
+![GitHub Stars](https://img.shields.io/github/stars/guptavidur/deepfake_detection_cnn?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/guptavidur/deepfake_detection_cnn?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/guptavidur/deepfake_detection_cnn)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/guptavidur/deepfake_detection_cnn)
 
 ---
 
