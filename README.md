@@ -1,5 +1,5 @@
 # deepfake_detection_cnn
-Deepfake detection using CNN (TensorFlow &amp; OpenCV) achieving 89% accuracy with explainability analysis.
+Deepfake detection using CNN (TensorFlow &amp; OpenCV) achieving 93.575% accuracy with explainability analysis.
 
 # Deepfake Detection using Convolutional Neural Networks
 
@@ -9,7 +9,7 @@ Deepfake detection using CNN (TensorFlow &amp; OpenCV) achieving 89% accuracy wi
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Accuracy](https://img.shields.io/badge/Accuracy-89%25-success)
+![Accuracy](https://img.shields.io/badge/Accuracy-93%25-success)
 ![AUC](https://img.shields.io/badge/AUC-0.956-brightgreen)
 
 **A robust deep learning solution for detecting AI-generated deepfake images using advanced CNN architecture**
@@ -55,7 +55,7 @@ Current deepfake detection models face several challenges:
 - High computational requirements
 - Limited explainability
 
-This project provides a **lightweight**, **effective**, and **interpretable** solution that achieves **89% accuracy** and **0.956 AUC score**.
+This project provides a **lightweight**, **effective**, and **interpretable** solution that achieves **89% accuracy** and **0.982 AUC score**.
 
 ---
 
@@ -73,7 +73,7 @@ School of Computer Science and Engineering
 
 ## ✨ Key Features
 
-- ✅ **High Performance**: Achieves 89% classification accuracy with 95.6% AUC score
+- ✅ **High Performance**: Achieves 93% classification accuracy with 95.6% AUC score
 - ✅ **Robust CNN Architecture**: Custom-designed network with batch normalization and dropout
 - ✅ **Real-time Detection**: Fast inference with confidence scores for each prediction
 - ✅ **Interactive Web Interface**: User-friendly Gradio application for easy deployment
@@ -394,7 +394,7 @@ print(result)
 
 | Metric | Score |
 |--------|-------|
-| **Test Accuracy** | **89.0%** |
+| **Test Accuracy** | **93.575%** |
 | **Precision** | 86.8% |
 | **Recall** | 90.7% |
 | **F1-Score** | 88.7% |
