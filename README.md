@@ -645,10 +645,6 @@ Contributions are welcome and greatly appreciated! Here's how you can contribute
   - Defense against adversarial attacks
   - Improved resilience to image perturbations
 
-- [ ] **Edge Deployment**
-  - TensorFlow Lite optimization
-  - Raspberry Pi and edge device deployment
-
 - [ ] **Multi-modal Detection**
   - Audio deepfake detection
   - Text-based synthetic content detection
