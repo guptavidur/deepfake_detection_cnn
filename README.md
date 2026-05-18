@@ -10,7 +10,7 @@ Deepfake detection using CNN (TensorFlow &amp; OpenCV) achieving 93.575% accurac
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Accuracy](https://img.shields.io/badge/Accuracy-93%25-success)
-![AUC](https://img.shields.io/badge/AUC-0.956-brightgreen)
+![AUC](https://img.shields.io/badge/AUC-0.982-brightgreen)
 
 **A robust deep learning solution for detecting AI-generated deepfake images using advanced CNN architecture**
 
@@ -55,7 +55,7 @@ Current deepfake detection models face several challenges:
 - High computational requirements
 - Limited explainability
 
-This project provides a **lightweight**, **effective**, and **interpretable** solution that achieves **89% accuracy** and **0.982 AUC score**.
+This project provides a **lightweight**, **effective**, and **interpretable** solution that achieves **93.575% accuracy** and **0.982 AUC score**.
 
 ---
 
@@ -73,7 +73,7 @@ School of Computer Science and Engineering
 
 ## ✨ Key Features
 
-- ✅ **High Performance**: Achieves 93% classification accuracy with 95.6% AUC score
+- ✅ **High Performance**: Achieves 93.575% classification accuracy with 98.2% AUC score
 - ✅ **Robust CNN Architecture**: Custom-designed network with batch normalization and dropout
 - ✅ **Real-time Detection**: Fast inference with confidence scores for each prediction
 - ✅ **Interactive Web Interface**: User-friendly Gradio application for easy deployment
@@ -398,7 +398,7 @@ print(result)
 | **Precision** | 86.8% |
 | **Recall** | 90.7% |
 | **F1-Score** | 88.7% |
-| **AUC-ROC** | **0.956** |
+| **AUC-ROC** | **0.982** |
 
 ### Confusion Matrix
 
@@ -421,10 +421,10 @@ print(result)
 
 ![ROC Curve](result/roc_curve.png)
 
-**Area Under Curve (AUC) = 0.956**
+**Area Under Curve (AUC) = 0.982**
 
 The ROC curve demonstrates excellent discriminatory power:
-- AUC score of 0.956 indicates the model has 95.6% probability of correctly distinguishing between real and fake images
+- AUC score of 0.982 indicates the model has 98.2% probability of correctly distinguishing between real and fake images
 - Curve hugs the top-left corner, showing high true positive rate with low false positive rate
 - Significantly outperforms random classification (diagonal line)
 
